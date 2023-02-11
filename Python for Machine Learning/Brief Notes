@@ -1,0 +1,7 @@
+DATA SCIENCE
+The data science pipeline can be described as an end-to-end process in which each step contributes to producing the final insights. Every data science project begins with defining a clear problem it aims to solve.
+
+The next step in the pipeline involves wrangling, reviewing and transforming the data from a messy/raw form to a more appropriate state for ease of use. (Data Cleaning)
+
+Exploratory Data Analysis (EDA) on the cleaned data using visualisations and statistical methods gives a quick insight into the various patterns and relationships between features in the dataset.
+Modelling involves using statistical and machine learning methods for classifying and clustering the processed data to create predictive models.
